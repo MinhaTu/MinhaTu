@@ -19,8 +19,14 @@ Here are some ideas to get you started:
 
 
 ##
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
+<div> 
+    <a href="https://www.linkedin.com/in/alexandre-morais-90016b1a1/" target="_blank" rel="author"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://www.instagram.com/ailsonalexx/" target="_blank" rel="author"><img src="https://img.shields.io/badge/ailsonalexx-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/lucasufc/lucasufc/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
 <div style="display: inline_block; width: 10px"><br>
   <img align="center" alt="lucas-Js" height="30" width="40" src="instagram(1).svg">
   <img align="center" alt="lucas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
