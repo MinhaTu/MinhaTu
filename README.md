@@ -31,7 +31,13 @@ to keep myself motivated. Through my college years I studied different topics, f
   to become a <strong>Backend Software engineer</strong>, I focus currenty my study time in <strong>Java, Python and C#. </strong></p>
 </div>
 
+##
+
+<h2> Tehcnical Stack </h2>
 <p><strong>Fun facts about me:</strong></p> 
+<p>&nbsp;&nbsp;&nbsp;&nbsp; <img height = "30" src="duck.png"> &nbsp;&nbsp;I'm a real fast-learner</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; <img height = "30" src="duck.png"> &nbsp;&nbsp; I like the multi- suffix, I am <strong>multiskilled</strong> and work in a <strong>multicultural team</strong></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; <img height = "30" src="duck.png"> &nbsp;&nbsp; The rubber duck debug technique is my favorite</p>
 <div style="display: inline_block; width: 10px"><br>
   <img align="center" alt="lucas-Js" height="30" width="40" src="instagram(1).svg">
   <img align="center" alt="lucas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
