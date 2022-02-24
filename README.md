@@ -42,11 +42,14 @@ to keep myself motivated. Through my college years I studied different topics, f
   <img align="center" alt="ailson-CSS" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/kubernetes.svg">
   <img align="center" alt="ailson-CSS" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
 </div>
-<h2 align="center"> Fun Facts &nbsp;&nbsp; <img height = "30" src="techduck.png"></h2>
+<h2 align="center"> Fun Facts &nbsp;&nbsp; <img height = "35" src="frenchduck.png"></h2>
 <p>&nbsp;&nbsp;&nbsp;&nbsp; <img height = "30" src="duck.png"> &nbsp;&nbsp;I'm a real fast-learner</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp; <img height = "30" src="duck.png"> &nbsp;&nbsp; I like the multi- suffix, I am <strong>multiskilled</strong> and work in a <strong>multicultural team</strong></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp; <img height = "30" src="duck.png"> &nbsp;&nbsp; The rubber duck debug technique is my favorite</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp; <img height = "30" src="duck.png"> &nbsp;&nbsp; I like gaming during my free time</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp; <img height = "30" src="duck.png"> &nbsp;&nbsp; I have used for quite a time Gitlab and different Versioning systems such as SVN, I'm trying to focus on Github right now</p>
 
+<div>
+
+</div>
 
