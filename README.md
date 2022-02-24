@@ -22,12 +22,16 @@
  </tr>
  <tr>
     <td>A powerful pragmatic programmer</td>
-    <td>entropy equation</td>
+    <td><img height = "70" src="shannon_entropy_equation_2-300x121.png"></td>
  </tr>
 </table>
 
-<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
+<p>Being most of the time a language-agnostic myself, I love learning new technologies and ways to improve my work. A <strong>sparkle of curiosity</strong> is all it takes
+to keep myself motivated. Through my college years I studied different topics, from hardcore hardware to delightful  software. As my early goal 
+  to become a <strong>Backend Software engineer</strong>, I focus currenty my study time in <strong>Java, Python and C#. </strong></p>
 </div>
+
+<p><strong>Fun facts about me:</strong></p> 
 <div style="display: inline_block; width: 10px"><br>
   <img align="center" alt="lucas-Js" height="30" width="40" src="instagram(1).svg">
   <img align="center" alt="lucas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
