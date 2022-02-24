@@ -32,8 +32,17 @@ to keep myself motivated. Through my college years I studied different topics, f
 </div>
 
 ##
-<h2 align="center"> Tehcnical Stack </h2>
-<p><strong>Fun facts about me:</strong></p> 
+<h2 align="center"> Technical Stack &nbsp;&nbsp; <img height = "30" src="techduck.png"></h2>
+<div align="center" style="display: inline_block"><br>
+  <img align="center" alt="ailson-Java" height="45" width="45" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
+  <img align="center" alt="ailson-Python" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
+  <img align="center" alt="ailson-C#" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg">
+  <img align="center" alt="ailson-C" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
+  <img align="center" alt="ailson-C++" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
+  <img align="center" alt="ailson-CSS" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/kubernetes.svg">
+  <img align="center" alt="ailson-CSS" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
+</div>
+<h2 align="center"> Fun Facts &nbsp;&nbsp; <img height = "30" src="techduck.png"></h2>
 <p>&nbsp;&nbsp;&nbsp;&nbsp; <img height = "30" src="duck.png"> &nbsp;&nbsp;I'm a real fast-learner</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp; <img height = "30" src="duck.png"> &nbsp;&nbsp; I like the multi- suffix, I am <strong>multiskilled</strong> and work in a <strong>multicultural team</strong></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp; <img height = "30" src="duck.png"> &nbsp;&nbsp; The rubber duck debug technique is my favorite</p>
