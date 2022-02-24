@@ -32,17 +32,12 @@ to keep myself motivated. Through my college years I studied different topics, f
 </div>
 
 ##
-
-<h2> Tehcnical Stack </h2>
+<h2 align="center"> Tehcnical Stack </h2>
 <p><strong>Fun facts about me:</strong></p> 
 <p>&nbsp;&nbsp;&nbsp;&nbsp; <img height = "30" src="duck.png"> &nbsp;&nbsp;I'm a real fast-learner</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp; <img height = "30" src="duck.png"> &nbsp;&nbsp; I like the multi- suffix, I am <strong>multiskilled</strong> and work in a <strong>multicultural team</strong></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp; <img height = "30" src="duck.png"> &nbsp;&nbsp; The rubber duck debug technique is my favorite</p>
-<div style="display: inline_block; width: 10px"><br>
-  <img align="center" alt="lucas-Js" height="30" width="40" src="instagram(1).svg">
-  <img align="center" alt="lucas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="lucas-pic" height="150" style="border-radius:50px;" src="https://octodex.github.com/images/filmtocat.png">
-</div>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; <img height = "30" src="duck.png"> &nbsp;&nbsp; I like gaming during my free time</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; <img height = "30" src="duck.png"> &nbsp;&nbsp; I have used for quite a time Gitlab and different Versioning systems such as SVN, I'm trying to focus on Github right now</p>
+
+
