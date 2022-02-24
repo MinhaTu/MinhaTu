@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img height="200em" src="index2_.png">
+  <img src="index2_.png">
 </div>
 
 
