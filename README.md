@@ -27,8 +27,8 @@
 </table>
 
 <p>Being most of the time a language-agnostic myself, I love learning new technologies and ways to improve my work. A <strong>sparkle of curiosity</strong> is all it takes
-to keep myself motivated. Through my college years I studied different topics, from hardcore hardware to delightful  software. As my early goal 
-  to become a <strong>Backend Software engineer</strong>, I focus currenty my study time in <strong>Java, Python and C#. </strong></p>
+to keep myself motivated. Throughout my college years I studied different topics, from hardcore hardware to delightful  software. As my early goal 
+  to become a <strong>Backend Software engineer</strong>, I focus currently in <strong>Java, Python and C#. </strong></p>
 </div>
 
 ##
