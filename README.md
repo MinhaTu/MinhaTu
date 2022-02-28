@@ -47,7 +47,7 @@ to keep myself motivated. Throughout my college years I studied different topics
 <p>&nbsp;&nbsp;&nbsp;&nbsp; <img height = "30" src="duck.png"> &nbsp;&nbsp; I like the multi- suffix, I am <strong>multiskilled</strong> and work in a <strong>multicultural team</strong></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp; <img height = "30" src="duck.png"> &nbsp;&nbsp; The rubber duck debug technique is my favorite</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp; <img height = "30" src="duck.png"> &nbsp;&nbsp; I like gaming during my free time</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; <img height = "30" src="duck.png"> &nbsp;&nbsp; I have used for quite a time Gitlab and different Versioning systems such as SVN, I'm trying to focus on Github right now</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; <img height = "30" src="duck.png"> &nbsp;&nbsp; I have used for quite a while Gitlab and different Versioning Systems such as SVN, I'm trying to focus on Github right now</p>
  <br></br>
 <div align="center">
     <img height="190em" src="https://github-readme-stats.vercel.app/api?username=MinhaTu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
