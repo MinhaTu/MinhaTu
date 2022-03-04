@@ -13,7 +13,7 @@
  <br></br>
   <p>I'm a Computer Engineer student with a Master's degree at <strong>CentraleSupélec 🇫🇷</strong> and a Bachelor's one at <strong>UFC 🇧🇷</strong>. I'm always excited 
 (with a little coffee boost sometimes :sweat_smile:)
- to dig into new things and unreveal the mysteries behind software engineering! :sunglasses:</p>
+ to dig into new things and unravel the mysteries behind software engineering! :sunglasses:</p>
  
  <table border="0">
  <tr>
